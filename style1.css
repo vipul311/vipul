@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Mainheader{
+    background-color: rgb(158, 52, 52);
+    overflow: hidden;
+}
+
+
+
+.logo{
+    width: 200px;
+    height: 60px;
+    background-color: orange;
+    margin: 10px;
+    float: left;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    float: right;
+    margin-top: 27px;
+    font-size: 20px;
+}
+li{
+    display: inline;
+    padding: 20px;
+}
+
+.Section1{
+    padding: 47px;
+    float: left;
+    
+}
+
+.Section2{
+    padding: 47px;
+    clear: both;
+    float: left;
+}
+
+.green1{
+    width: 620px;
+    height: 450px;
+    background-color: green;
+    float: left;    
+}
+
+.green2{
+    width: 620px;
+    height: 450px;
+    float: right;
+    background-color: green;
+    margin-left: 40px;
+}
+
+.box1{
+    
+    float: right;
+    width:650px;
+    height: 450px;  
+    margin-left: 40px
+}
+
+.box2{
+    float: left;
+    width:650px;
+    height: 450px;
+    margin-right: 0px;
+}
+
+.blue{
+    width: 300px;
+    height: 205px;
+    background-color: blue;
+    float: left;
+    
+}
+
+.red{
+    width: 300px;
+    height: 205px;
+    background-color: red;
+    float: left;
+    margin-left: 40px;
+    
+}
+
+.yellow{
+    width: 300px;
+    height: 205px;
+    background-color: yellow;
+    float: left;
+    margin-top: 40px;
+    
+}
+.purple{
+    width: 300px;
+    height: 205px;
+    background-color: purple;
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.main{
+    border: 1px solid skyblue;
+    overflow: hidden;
+}
+
+
+
+.b1{
+    width: 100px;
+    height: 60px;
+    background-color: orange;
+    margin: 5px 10px 5px 10px ;
+    float: left;
+}
+
+.b2{
+    width: 60px;
+    height: 60px;
+    background-color: orange;
+    margin: 5px 10px 5px 10px ;
+    float: left;
+}
+
+.b3{
+    width: 30px;
+    height: 60px;
+    background-color: orange;
+    margin: 5px 10px 5px 10px ;
+    float: left;
+    font-size: 11px;
+}
